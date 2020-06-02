@@ -2,13 +2,13 @@ E-Commerce App for Categories and products in said categories
 
 ## Dependencies
 
-React
-React-Dom
-React-Redux
-React-Scripts
-Redux
-Redux-Devtools-Extension
-Node-Sass
+- React
+- React-Dom
+- React-Redux
+- React-Scripts
+- Redux
+- Redux-Devtools-Extension
+- Node-Sass
 
 ### `npm start`
 
