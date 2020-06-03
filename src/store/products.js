@@ -13,7 +13,7 @@ let initialState = {
     let { type, payload } = action;
   
     switch(type){
-      case 'RESERT':
+      case 'RESET':
         return initialState;
       default:
         return state;
